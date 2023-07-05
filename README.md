@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @malachyspollen
-- 👀 I’m interested in Knowledge Management, 2nd Brain, Logseq, GitHub, Design Futures
-- 🌱 I’m currently learning Knowledge Management, 2nd Brain, Logseq, GitHub, Design Futures
-- 💞️ I’m looking to collaborate on Knowledge Management, 2nd Brain, Logseq, GitHub, Design Futures
-- 📫 How to reach me ...
+- 👀 I’m interested in Stuff & Nonesense
+- 🌱 I’m currently learning to tie my shoelaces
+- 💞️ I’m looking to collaborate on Futures
+- 📫 How to reach me ... put out your arms
 
 <!---
 malachyspollen/malachyspollen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
